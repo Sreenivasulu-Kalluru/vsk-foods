@@ -38,7 +38,7 @@ const RestaurantCard = (props) => {
           <span>
             <FiClock />
           </span>
-          <span>{sla.deliveryTime} minutes</span>
+          <span>{sla.slaString}</span>
         </h4>
       </div>
     </div>
