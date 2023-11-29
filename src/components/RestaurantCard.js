@@ -1,7 +1,6 @@
 import { CDN_URL } from '../utils/constants';
 import { FiClock } from 'react-icons/fi';
 import { AiOutlineStar } from 'react-icons/ai';
-import { useContext } from 'react';
 
 const RestaurantCard = (props) => {
   const { resData } = props;
