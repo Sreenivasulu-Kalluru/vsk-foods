@@ -32,7 +32,6 @@ const RestaurantCard = (props) => {
           <span>{avgRating} stars</span>
         </h4>
         <h4 className="flex items-center gap-2">
-          {/* <span style={{ marginLeft: '4px' }}>₹</span> */}
           <span>{costForTwo}</span>
         </h4>
         <h4 className="flex items-center gap-2">
